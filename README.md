@@ -1,1 +1,2 @@
 # Turtle-Graphics
+This project provides an engaging introduction to Python programming using Turtle Graphics, a beginner-friendly library that allows users to create graphics and animations by controlling a "turtle" on the screen. With simple commands for movement, rotation, and color control, Turtle Graphics makes learning programming concepts like loops, functions, and conditionals accessible and fun.
